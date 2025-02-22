@@ -59,18 +59,18 @@ Interact with the AI agents through the user-friendly interface provided by the 
 financial agent.py
 This file demonstrates the creation of a multi-agent instance, combining the web search agent and financial AI agent, and provides an example of how to use the multi-agent for summarizing analyst recommendations and sharing the latest news for a specific stock.
 
-**Technologies Used: **
+**Technologies Used:**
 
  **Python 3.7+**
  
 - **OpenAI GPT**: Language model used for generating natural language responses.
-- 
+  
 - **phi**: Library used to create AI agents and manage interactions.
-- 
+  
 - **YFinanceTools**: Tool used for financial data retrieval.
-- 
+  
 - **DuckDuckGo**: Tool used for web search functionalities.
-- 
+  
 - **dotenv**: Library for managing environment variables.
 
 **Future Enhancements**
